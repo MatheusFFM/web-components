@@ -9,7 +9,7 @@ template.innerHTML = /*html*/`
     span {
         width: 4rem;
         display: inline-block;
-        text-align: center;
+        text-align: center; 
         font-family: 'Poppins';
     }
 

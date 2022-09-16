@@ -1,12 +1,12 @@
 * {
-    font-size: 200%;
+    font-size: 150%;
 }
 
 span {
     width: 4rem;
     display: inline-block;
     text-align: center;
-    font-family: 'Poppins';
+    font-family: Poppins;
 }
 
 button {
@@ -17,7 +17,8 @@ button {
     color: white;
 
     &:hover {
-        cursor: pointer
+        
+    cursor: pointer;
     }
 }
 
